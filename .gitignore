@@ -1,6 +1,0 @@
-# ملفات Excel المؤقتة
-~$*.xlsx
-.DS_Store
-
-# مخرجات الفحص المحلية
-*.inspect.ndjson
